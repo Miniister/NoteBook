@@ -94,3 +94,6 @@ The code is released under the [MIT license](LICENSE?raw=true).
 ---------------------------------------
 
 Please feel free to send me some feedback or questions!
+
+以上内容源于jwt开源框架
+本项目基于jwt开源框架实现前后端分离
