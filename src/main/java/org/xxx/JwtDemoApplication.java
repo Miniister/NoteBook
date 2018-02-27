@@ -10,4 +10,5 @@ public class JwtDemoApplication {
         SpringApplication.run(JwtDemoApplication.class, args);
         System.out.println("Hei,TimeBook is ready!--> http://127.0.0.1:8080/");
     }
+    
 }
